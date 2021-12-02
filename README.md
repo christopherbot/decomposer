@@ -8,6 +8,8 @@
 
 Decomposer is a music creation game where pesky bugs will try to ruin your composition.
 
+The game is recommended to be played at a minimum width of 1000px.
+
 Enable Creative Mode to prevent new bugs from appearing so you can write your song at your own pace.
 
 Enable Pentatonic Mode to prevent placing half-step notes that create dissonance. If you have never written music before, this might help your song sound more pleasant.
