@@ -1,14 +1,28 @@
-# Decomposed
+# Decomposer
 
-:mushroom: :musical_keyboard:
+### [Play Decomposer](https://christopherbot.github.io/decomposer/) :mushroom: :musical_keyboard:
 
-Decomposed is a music creation game where pesky bugs will try to ruin your composition.
+<img width="400" alt="Screen Shot 2021-12-01 at 8 11 25 AM" src="https://user-images.githubusercontent.com/23301657/144442993-c8799e59-8dc3-4192-868e-1643637e8c38.png">
+
+## Game
+
+Decomposer is a music creation game where pesky bugs will try to ruin your composition.
+
+Enable Creative Mode to prevent new bugs from appearing so you can write your song at your own pace.
+
+Enable Pentatonic Mode to prevent placing half-step notes that create dissonance. If you have never written music before, this might help your song sound more pleasant.
 
 You can save up to two songs to your local storage and load them later for playback.
 
-It was created with [Phaser 3](https://phaser.io/) for the [GitHub Game Off 2021](https://itch.io/jam/game-off-2021).
+<img width="400" alt="Screen Shot 2021-12-01 at 8 13 26 AM" src="https://user-images.githubusercontent.com/23301657/144443022-12479d73-f36a-4c61-93d0-425a49c5f8fc.png">
 
-### Asset attributions
+## Origin
+
+Decomposer was created with [Phaser 3](https://phaser.io/) for the [GitHub Game Off 2021](https://itch.io/jam/game-off-2021).
+
+[GitHub Game Off 2021 game submission](https://itch.io/jam/game-off-2021/rate/1300677) :bar_chart:
+
+## Asset attributions
 
 Piano sounds:
 https://aliustaoglu.itch.io/separate-piano-keys-5-octaves
