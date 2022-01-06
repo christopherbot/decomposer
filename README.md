@@ -24,6 +24,12 @@ Decomposer was created with [Phaser 3](https://phaser.io/) for the [GitHub Game 
 
 [GitHub Game Off 2021 game submission](https://itch.io/jam/game-off-2021/rate/1300677) :bar_chart:
 
+### Results
+
+Decomposer ranked 4th in Innovation:
+
+<img width="734" alt="Screen Shot 2022-01-06 at 9 49 49 AM" src="https://user-images.githubusercontent.com/23301657/148401367-c79d5283-a15d-418e-80c1-4806cd5b25bf.png">
+
 ## Asset attributions
 
 Piano sounds:
