@@ -26,9 +26,9 @@ Decomposer was created with [Phaser 3](https://phaser.io/) for the [GitHub Game 
 
 ### Results
 
-Decomposer ranked 4th in Innovation:
+Decomposer ranked 4th in Innovation and was mentioned in GitHub's [Top-rated entries from Game Off 2021](https://github.blog/2022-01-13-top-entries-from-game-off-2021/#decomposer) blog entry.
 
-<img width="734" alt="Screen Shot 2022-01-06 at 9 49 49 AM" src="https://user-images.githubusercontent.com/23301657/148401367-c79d5283-a15d-418e-80c1-4806cd5b25bf.png">
+<img width="734" alt="Screen Shot 2022-01-06 at 9 49 49 AM" src="https://user-images.githubusercontent.com/23301657/148401367-c79d5283-a15d-418e-80c1-4806cd5b25bf.png">'
 
 ## Asset attributions
 
